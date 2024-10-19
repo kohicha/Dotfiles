@@ -9,3 +9,10 @@ ___
 - [ ] Git
 - [ ] Neovim
 - [ ] OhMyPosh
+
+#### Set Default Directory
+```powershell
+$PROFILE.CurrentUserCurrentHost
+
+env:USERPROFILE\<path-to-dir>
+```

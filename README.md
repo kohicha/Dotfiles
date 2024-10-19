@@ -4,8 +4,8 @@ ___
 ## Setting Up
 
 #### Prerequisite Install
-- [] Windows Terminal
-- [] Scoop
-- [] Git
-- [] Neovim
-- [] OhMyPosh
+- [ ] Windows Terminal
+- [ ] Scoop
+- [ ] Git
+- [ ] Neovim
+- [ ] OhMyPosh
